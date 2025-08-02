@@ -8,6 +8,7 @@ namespace TerrariaCalculator
 {
     public class Accesory
     {
+        public Action? OnAccessoryChanged;
         private string accesoryModifier = "";
         public string Modifier
         {
@@ -59,27 +60,27 @@ namespace TerrariaCalculator
         public void AccesoryDamageMultiplierChanged(StatBox stat)
         {
             this.Damage = stat.GetInput();
-            _parentForm.CalculateDamageMult();
+            OnAccessoryChanged?.Invoke();
         }
         public void DamageRelativityChanged(CheckBox stat)
         {
             this.DamageRelative = !stat.Checked;
-            _parentForm.CalculateDamageMult();
+            //_parentForm.CalculateDamageMult();
         }
         public void AccesoryCritChanceMultiplierChanged(StatBox stat)
         {
             this.CritChance = stat.GetInput();
-            _parentForm.CalculateCritChanceMult();
+            //_parentForm.CalculateCritChanceMult();
         }
         public void AccesorySpeedMultiplierChanged(StatBox stat)
         {
             this.Speed = stat.GetInput();
-            _parentForm.CalculateSpeedMult();
+            //_parentForm.CalculateSpeedMult();
         }
         public void SpeedRelativityChangedd(CheckBox stat)
         {
             this.speedRelative = !stat.Checked;
-            _parentForm.CalculateSpeedMult();
+            //_parentForm.CalculateSpeedMult();
         }
     }
 }

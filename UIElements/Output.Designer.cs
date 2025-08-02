@@ -28,30 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            WeaponName = new Label();
+            weaponName = new Label();
             label1 = new Label();
-            DamageOutput = new Label();
-            SpeedOutput = new Label();
+            damageOutput = new Label();
+            speedOutput = new Label();
             label4 = new Label();
             label5 = new Label();
-            CritChanceOutput = new Label();
+            critChanceOutput = new Label();
             label7 = new Label();
             label8 = new Label();
             label9 = new Label();
             label10 = new Label();
-            AvgDamageOutput = new Label();
+            avgDamageOutput = new Label();
             SuspendLayout();
             // 
             // WeaponName
             // 
-            WeaponName.AutoEllipsis = true;
-            WeaponName.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            WeaponName.Location = new Point(0, 75);
-            WeaponName.Name = "WeaponName";
-            WeaponName.Size = new Size(356, 50);
-            WeaponName.TabIndex = 0;
-            WeaponName.Text = "label1";
-            WeaponName.TextAlign = ContentAlignment.MiddleCenter;
+            weaponName.AutoEllipsis = true;
+            weaponName.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            weaponName.Location = new Point(0, 75);
+            weaponName.Name = "WeaponName";
+            weaponName.Size = new Size(356, 50);
+            weaponName.TabIndex = 0;
+            weaponName.Text = "label1";
+            weaponName.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label1
             // 
@@ -65,23 +65,23 @@
             // 
             // DamageOutput
             // 
-            DamageOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            DamageOutput.Location = new Point(360, 100);
-            DamageOutput.Name = "DamageOutput";
-            DamageOutput.Size = new Size(270, 50);
-            DamageOutput.TabIndex = 2;
-            DamageOutput.Text = "label1";
-            DamageOutput.TextAlign = ContentAlignment.MiddleCenter;
+            damageOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            damageOutput.Location = new Point(360, 100);
+            damageOutput.Name = "DamageOutput";
+            damageOutput.Size = new Size(270, 50);
+            damageOutput.TabIndex = 2;
+            damageOutput.Text = "label1";
+            damageOutput.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // SpeedOutput
             // 
-            SpeedOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            SpeedOutput.Location = new Point(750, 100);
-            SpeedOutput.Name = "SpeedOutput";
-            SpeedOutput.Size = new Size(305, 50);
-            SpeedOutput.TabIndex = 4;
-            SpeedOutput.Text = "label1";
-            SpeedOutput.TextAlign = ContentAlignment.MiddleCenter;
+            speedOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            speedOutput.Location = new Point(750, 100);
+            speedOutput.Name = "SpeedOutput";
+            speedOutput.Size = new Size(305, 50);
+            speedOutput.TabIndex = 4;
+            speedOutput.Text = "label1";
+            speedOutput.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label4
             // 
@@ -105,13 +105,13 @@
             // 
             // CritChanceOutput
             // 
-            CritChanceOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            CritChanceOutput.Location = new Point(1159, 100);
-            CritChanceOutput.Name = "CritChanceOutput";
-            CritChanceOutput.Size = new Size(136, 50);
-            CritChanceOutput.TabIndex = 7;
-            CritChanceOutput.Text = "label1";
-            CritChanceOutput.TextAlign = ContentAlignment.MiddleCenter;
+            critChanceOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            critChanceOutput.Location = new Point(1159, 100);
+            critChanceOutput.Name = "CritChanceOutput";
+            critChanceOutput.Size = new Size(136, 50);
+            critChanceOutput.TabIndex = 7;
+            critChanceOutput.Text = "label1";
+            critChanceOutput.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label7
             // 
@@ -155,13 +155,13 @@
             // 
             // AvgDamageOutput
             // 
-            AvgDamageOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            AvgDamageOutput.Location = new Point(1450, 100);
-            AvgDamageOutput.Name = "AvgDamageOutput";
-            AvgDamageOutput.Size = new Size(196, 50);
-            AvgDamageOutput.TabIndex = 11;
-            AvgDamageOutput.Text = "label1";
-            AvgDamageOutput.TextAlign = ContentAlignment.MiddleCenter;
+            avgDamageOutput.Font = new Font("Showcard Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            avgDamageOutput.Location = new Point(1450, 100);
+            avgDamageOutput.Name = "AvgDamageOutput";
+            avgDamageOutput.Size = new Size(196, 50);
+            avgDamageOutput.TabIndex = 11;
+            avgDamageOutput.Text = "label1";
+            avgDamageOutput.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Output
             // 
@@ -169,17 +169,17 @@
             AutoScaleMode = AutoScaleMode.Font;
             AutoSize = true;
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
-            Controls.Add(AvgDamageOutput);
+            Controls.Add(avgDamageOutput);
             Controls.Add(label10);
             Controls.Add(label9);
             Controls.Add(label8);
-            Controls.Add(CritChanceOutput);
+            Controls.Add(critChanceOutput);
             Controls.Add(label7);
-            Controls.Add(SpeedOutput);
+            Controls.Add(speedOutput);
             Controls.Add(label4);
-            Controls.Add(DamageOutput);
+            Controls.Add(damageOutput);
             Controls.Add(label1);
-            Controls.Add(WeaponName);
+            Controls.Add(weaponName);
             Controls.Add(label5);
             Margin = new Padding(0);
             Name = "Output";
@@ -191,17 +191,17 @@
 
         #endregion
 
-        public Label WeaponName;
+        public Label weaponName;
         public Label label1;
-        public Label DamageOutput;
-        public Label SpeedOutput;
+        public Label damageOutput;
+        public Label speedOutput;
         public Label label4;
         public Label label5;
-        public Label CritChanceOutput;
+        public Label critChanceOutput;
         public Label label7;
         public Label label8;
         public Label label9;
         public Label label10;
-        public Label AvgDamageOutput;
+        public Label avgDamageOutput;
     }
 }

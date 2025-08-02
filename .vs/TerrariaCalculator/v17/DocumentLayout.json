@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\helpers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:helpers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\accesory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:accesory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\uielements\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\uielements\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\uielements\\weaponbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\weaponbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\structures\\accesory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:structures\\accesory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\structures\\statmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:structures\\statmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\structures\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:structures\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\structures\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:structures\\weaponstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\uielements\\accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\helpers\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:helpers\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\uielements\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\output.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|c:\\users\\mares andrei\\vs com p\\terrariacalculator\\uielements\\accslot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA95DE43-00D8-4204-A0FC-84CBD7E1D125}|TerrariaCalculator.csproj|solutionrelative:uielements\\accslot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:accslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\weaponbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:weaponbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +78,208 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Accesory.cs",
-              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Accesory.cs",
-              "RelativeDocumentMoniker": "Accesory.cs",
-              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Accesory.cs",
-              "RelativeToolTip": "Accesory.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwFEAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Output.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.cs",
+              "RelativeDocumentMoniker": "UIElements\\Output.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.cs [Design]",
+              "RelativeToolTip": "UIElements\\Output.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T11:34:05.915Z",
+              "WhenOpened": "2025-07-31T18:58:21.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:40:43.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Output.cs",
-              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Output.cs",
-              "RelativeDocumentMoniker": "Output.cs",
-              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Output.cs",
-              "RelativeToolTip": "Output.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.cs",
+              "RelativeDocumentMoniker": "UIElements\\Output.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.cs",
+              "RelativeToolTip": "UIElements\\Output.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T09:20:28.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T09:20:28.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponStats.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\WeaponStats.cs",
+              "RelativeDocumentMoniker": "Structures\\WeaponStats.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\WeaponStats.cs",
+              "RelativeToolTip": "Structures\\WeaponStats.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:38:19.984Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "WeaponBox.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\WeaponBox.cs",
+              "RelativeDocumentMoniker": "UIElements\\WeaponBox.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\WeaponBox.cs",
+              "RelativeToolTip": "UIElements\\WeaponBox.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:42:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Accesory.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\Accesory.cs",
+              "RelativeDocumentMoniker": "Structures\\Accesory.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\Accesory.cs",
+              "RelativeToolTip": "Structures\\Accesory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:34:05.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatModifier.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\StatModifier.cs",
+              "RelativeDocumentMoniker": "Structures\\StatModifier.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\StatModifier.cs",
+              "RelativeToolTip": "Structures\\StatModifier.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvz0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:08:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\Weapon.cs",
+              "RelativeDocumentMoniker": "Structures\\Weapon.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Structures\\Weapon.cs",
+              "RelativeToolTip": "Structures\\Weapon.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:32:48.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Helpers\\Calculator.cs",
+              "RelativeDocumentMoniker": "Helpers\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Helpers\\Calculator.cs",
+              "RelativeToolTip": "Helpers\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:35:30.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T10:40:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Output.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Output.cs",
               "RelativeDocumentMoniker": "Output.cs",
               "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Output.cs [Design]",
               "RelativeToolTip": "Output.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T09:20:26.933Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-21T09:20:26.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "AccSlot.cs",
-              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\AccSlot.cs",
-              "RelativeDocumentMoniker": "AccSlot.cs",
-              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\AccSlot.cs",
-              "RelativeToolTip": "AccSlot.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\AccSlot.cs",
+              "RelativeDocumentMoniker": "UIElements\\AccSlot.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\AccSlot.cs",
+              "RelativeToolTip": "UIElements\\AccSlot.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T09:01:51.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T09:01:51.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "AccSlot.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\AccSlot.cs",
               "RelativeDocumentMoniker": "AccSlot.cs",
               "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\AccSlot.cs [Design]",
               "RelativeToolTip": "AccSlot.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T09:01:44.135Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-21T09:01:44.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Weapon.cs",
-              "RelativeDocumentMoniker": "Weapon.cs",
-              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Weapon.cs",
-              "RelativeToolTip": "Weapon.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UIStyles.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Helpers\\UIStyles.cs",
+              "RelativeDocumentMoniker": "Helpers\\UIStyles.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Helpers\\UIStyles.cs",
+              "RelativeToolTip": "Helpers\\UIStyles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T11:32:48.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T09:52:57.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAAAAwP4AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "WeaponBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\WeaponBox.cs",
+              "RelativeDocumentMoniker": "WeaponBox.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\WeaponBox.cs [Design]",
+              "RelativeToolTip": "WeaponBox.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T19:31:05.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T10:42:28.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Output.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.Designer.cs",
+              "RelativeDocumentMoniker": "UIElements\\Output.Designer.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\Output.Designer.cs",
+              "RelativeToolTip": "UIElements\\Output.Designer.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAcwMEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:25:33.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccSlot.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\AccSlot.Designer.cs",
+              "RelativeDocumentMoniker": "UIElements\\AccSlot.Designer.cs",
+              "ToolTip": "C:\\Users\\Mares Andrei\\VS Com P\\TerrariaCalculator\\UIElements\\AccSlot.Designer.cs",
+              "RelativeToolTip": "UIElements\\AccSlot.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:25:02.204Z"
             }
           ]
         }

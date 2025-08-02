@@ -19,3 +19,4 @@ C:\Users\Mares Andrei\VS Com P\TerrariaCalculator\obj\Debug\net8.0-windows\Terra
 C:\Users\Mares Andrei\VS Com P\TerrariaCalculator\obj\Debug\net8.0-windows\TerrariaCalculator.Properties.Resources.resources
 C:\Users\Mares Andrei\VS Com P\TerrariaCalculator\obj\Debug\net8.0-windows\TerrariaCalculator.AccSlot.resources
 C:\Users\Mares Andrei\VS Com P\TerrariaCalculator\obj\Debug\net8.0-windows\TerrariaCalculator.Output.resources
+C:\Users\Mares Andrei\VS Com P\TerrariaCalculator\obj\Debug\net8.0-windows\TerrariaCalculator.sourcelink.json

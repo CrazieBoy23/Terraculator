@@ -90,7 +90,7 @@ namespace TerrariaCalculator
                     {
                         int armorCount = 4;
                         int totalArmorBoxes = armorCount * 5;
-                        statBoxes = new StatBox[totalArmorBoxes]; // always reinitialize
+                        statBoxes = new StatBox[totalArmorBoxes];
 
                         splitContainer1.Size = new Size(1385, 1100);
 
@@ -99,7 +99,7 @@ namespace TerrariaCalculator
                             for (int i = 0; i < armorCount; i++)
                             {
                                 int index = armorCount * j + i;
-                                statBoxes[index] = new StatBox(); // <-- guaranteed safe now
+                                statBoxes[index] = new StatBox();
                                 splitContainer1.Panel2.Controls.Add(statBoxes[index]);
                                 statBoxes[index].Location = new Point(250 * i + 25, j * 200);
                             }
